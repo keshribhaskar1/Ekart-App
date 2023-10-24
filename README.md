@@ -1,2 +1,2 @@
 # E-kart-Management
-online cart management system
+Online customer cart management system. 
