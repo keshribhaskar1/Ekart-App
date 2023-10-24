@@ -1,2 +1,2 @@
-# Ekart-App
-Ekart app for maintaining user's cart details.
+# E-kart-Management
+online cart management system
